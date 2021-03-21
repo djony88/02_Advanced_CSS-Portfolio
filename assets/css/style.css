@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #bebfc2;
+}
+/* Adding style to header and navigation bar. */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0c2e3f;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    background-color: #24c997;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 60px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    color: #ffffff;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+nav ul {
+   display:inline-block;
+   margin-left: 15px;
+   list-style-type: none;
+   display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+a {
+    position: relative;
+    text-decoration:underline;
+    color:#24c997;
+    padding-top: 15px;
+    margin-right: 20px;
+}
+
+.ME {
+    height: 350px;
+    width: 300px;
+    margin-bottom: 25px;
+    background-image: url("../images/nikola.jpg");
+    background-size: cover;
+    margin: 0;
+}
