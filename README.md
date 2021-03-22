@@ -31,4 +31,4 @@ CSS
 *Adding footer style.
 
 
-![Webpage Preview](.\assets\images\screenshot.png)
+![Webpage Preview](./assets/images/screenshot.png)
