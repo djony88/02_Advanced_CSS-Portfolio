@@ -2,6 +2,10 @@
 
 UCSD-SD-FSF-PT-03-2021-U-C-MW
 
+![GitHub link](https://github.com/djony88/02_Advanced_CSS-Portfolio)
+
+![Published Webpage](https://djony88.github.io/02_Advanced_CSS-Portfolio/)
+
 Requirement:
 
 *See sample of previous work.
@@ -27,4 +31,4 @@ CSS
 *Adding footer style.
 
 
-![Webpage Preview](./assets\images\screenshot.png)
+![Webpage Preview](.\assets\images\screenshot.png)
