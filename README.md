@@ -31,3 +31,5 @@ CSS
 *Adding footer style.
 
 ![Webpage preview](.\assets\images\screenshot.png)
+
+![Preview](assets\images\screenshot.png)
