@@ -35,14 +35,14 @@ body {
     font-size: 20px;
 
 }
-
+/* Stiling navigation bar */
 nav ul {
    display:inline-block;
    margin-left: 15px;
    list-style-type: none;
    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+   flex-direction: row;
+   flex-wrap: wrap;
 }
 
 a {
@@ -52,12 +52,124 @@ a {
     padding-top: 15px;
     margin-right: 20px;
 }
-
+/* Adding picure of me. :) */
 .ME {
-    height: 350px;
+    height: 370px;
     width: 300px;
     margin-bottom: 25px;
     background-image: url("../images/nikola.jpg");
     background-size: cover;
     margin: 0;
+}
+
+.bridge {
+    height: 370px;
+    width: 1602px;
+    position: relative;
+    top: -374px;
+    left: 300px;
+}
+
+.float-right {
+    float: right;
+    margin-right: 15px;
+    height: 250px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-height: 200px;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+
+/* Adding about me section. */
+.About-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color: #0c2e3f;
+    color: #ffffff;
+    width:100%;
+}
+/* Adding My work section */
+.My-work {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 800px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color: #0c2e3f;
+    color: #ffffff;
+}
+/* Adding picure style */
+.img_1 {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+.img_2 {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left:300px;
+    top: -316px;
+    margin: 10px;
+}
+
+.img_3 {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left:610px;
+    top: -642px;
+    margin: 10px;
+}
+
+.img_4 {
+    height: 300px;
+    width: 450px;
+    position: relative;
+    left:920px;
+    top: -968px;
+    margin: 10px;
+}
+
+.img_5 {
+    height: 300px;
+    width: 450px;
+    position: relative;
+    top: -942px;
+}
+
+.img_6 {
+    height: 300px;
+    width: 450px;
+    position: relative;
+    left: 480px;
+    top: -1248px;
+}
+
+/* Adding my contact info */
+.Contact-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color: #0c2e3f;
+    color: #ffffff;
+    width:100%;
+}
+
+/* Adding footer style*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 25px;
 }
