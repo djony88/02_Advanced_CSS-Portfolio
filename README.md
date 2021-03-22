@@ -30,4 +30,4 @@ CSS
 *Adding my contact info.
 *Adding footer style.
 
-![Webpage preview](./assets/images/screenshot.png)
+![Webpage preview](assets\images\screenshot.png)
