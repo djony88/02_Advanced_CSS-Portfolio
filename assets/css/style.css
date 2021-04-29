@@ -171,5 +171,7 @@ a {
     clear: both;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
+    color: white;
     font-size: 25px;
+    background-color: #0c2e3f;
 }
