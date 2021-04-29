@@ -2,9 +2,9 @@
 
 UCSD-SD-FSF-PT-03-2021-U-C-MW
 
-![GitHub link](https://github.com/djony88/02_Advanced_CSS-Portfolio)
+[GitHub link](https://github.com/djony88/02_Advanced_CSS-Portfolio)
 
-![Published Webpage](https://djony88.github.io/02_Advanced_CSS-Portfolio/)
+[Published Webpage](https://djony88.github.io/02_Advanced_CSS-Portfolio/)
 
 Requirement:
 
