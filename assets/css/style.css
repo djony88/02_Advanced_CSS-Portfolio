@@ -1,16 +1,15 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+    /* padding: 0;
+    margin: 0; */
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    background-color: #bebfc2;
+    background-color: #0c2e3f;
+;
 }
 /* Adding style to header and navigation bar. */
-.container {
+.container-header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #0c2e3f;
@@ -62,17 +61,13 @@ a {
     margin: auto;
 }
 
-.float-right {
-    float: right;
-    margin-right: 15px;
-    height: 250px;
-    width: 300px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    max-height: 200px;
-    margin-bottom: 30px;
-    font-size: 36px;
+.bio {
+width:66%;
+}
+
+.aboutMeImage {
+    width: 250px;
+    
 }
 
 /* Adding about me section. */
@@ -84,6 +79,9 @@ a {
     background-color: #0c2e3f;
     color: #ffffff;
     width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 /* Adding My work section */
 .My-work {
@@ -134,37 +132,9 @@ a {
     font-size: 25px;
     background-color: #0c2e3f;
 }
+@media screen and (max-width: 990px) {
 
-@media screen and (min-width: 601px) {
-    form {
-        display: inline-block;
-        padding: 3px;
-        margin:auto;
-
+    .bio {
+        width:100%;
     }
-  }
-
-@media screen and (max-width: 601px) {
-    form {
-        display: inline-block;
-        padding: 3px;
-        margin:auto;
-    }
-  }
-
-@media screen and (min-width: 320px) {
-    form {
-        display: inline-block;
-        padding: 3px;
-        margin:auto;
-
-    }
-  }
-
-@media screen and (max-width: 320px) {
-    form {
-        display: inline-block;
-        padding: 3px;
-        margin:auto;
-    }
-  }
+}

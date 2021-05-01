@@ -11,7 +11,7 @@
 
 <body>
     <!-- Adding header and navigation bar. -->
-    <header class="container">
+    <header class="container-header">
         <h1>Nikola Stamenkovic</h1>
         <img id="fixed-box">
         <nav class="navbar navbar-nav ml-auto navbar-expand-lg navbar-dark bg-dark">
@@ -42,11 +42,13 @@
 <section>
     <div class="container">
         <div id="About-me" class="About-me">
-            <img src=".\assets\images\civil_engneer.jpg" class="float-right" />
-            <h2>About me</h2>
-            <p>
-                 Moved form Serbia to San Diego in 2013. Finished Civil Engineering in 2010 in Serbia and started working in structural engineering firm in San Diego in 2016 and worked on high-end residental houses. Gane a lot of experience and after 4 and a half years decided to try Web develoment and coding. Web development and coding was something that I always wanted to learn... 
-            </p>
+            <div class="bio">
+                <h2>About me</h2>
+                <p>
+                    Moved form Serbia to San Diego in 2013. Finished Civil Engineering in 2010 in Serbia and started working in structural engineering firm in San Diego in 2016 and worked on high-end residental houses. Gane a lot of experience and after 4 and a half years decided to try Web develoment and coding. Web development and coding was something that I always wanted to learn... 
+                </p>
+            </div>  
+            <img src=".\assets\images\civil_engneer.jpg" class="aboutMeImage" />
          </div>
     </div>
 </section>
@@ -86,32 +88,26 @@
         <div class="row">
             <div id= "Contact-me" class="Contact-me">
                 <h4>Contact me</h4>
-                <ol>
-                    <ul>
+                <ul>
+                    <li>
                         <a href="#phone">619.808.8102</a>
-                    </ul>
-                    <ul>
+                    </li>
+                    <li>
                         <a href="email">88djony@gmail.com</a>
-                    </ul>
-                </ol>
+                    </li>
+                    <!-- Linkedin profile -->
+                    <li>
+                        <a href="https://www.linkedin.com/in/nikola-stamenkovic?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP0OBfJUiRVquA%2B%2BHZ1bBuw%3D%3D">My Linkedin</a>
+                    </li>
+                </ul>
                 <!-- Twitter follow badge -->
-                <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                <!-- Linkedin -->
-                <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-                <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nikola-stamenkovic" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nikola-stamenkovic?trk=profile-badge"></a></div> -->
-              
-
+                <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"></a>
+                
             </div>
         </div>
     </section>
-
-    </main>
-
-    <!-- Adding footer section. -->
-<!-- <footer class="footer"> 
-    <p>
-        Thanks for visiting my website!!!
-    </p>
-</footer> -->
+    
+</main>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
