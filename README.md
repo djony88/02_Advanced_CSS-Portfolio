@@ -1,33 +1,36 @@
-# 02_Advanced_CSS-Portfolio
+# 09_Portfolio
 
 UCSD-SD-FSF-PT-03-2021-U-C-MW
 
-[GitHub link](https://github.com/djony88/02_Advanced_CSS-Portfolio)
+[GitHub link](https://github.com/djony88/09_Portfolio)
 
-[Published Webpage](https://djony88.github.io/02_Advanced_CSS-Portfolio/)
+[Published Webpage](https://djony88.github.io/09_Portfolio/)
 
 Requirement:
 
-* See sample of previous work.
-* Show developers name, photo, links about me, my work and contact.
-* With one click in navigation ba to scroll UI to corresponding sections.
+* Updated Portfolio
+* GitHub Profile
+* Updated Resume
+* Updated LinkedIn
 
 HTML
-* Adding header and navigation bar.
-* Adding my picture to the page.
-* Adding first contend to the page with picure and paragrafh about me.
-* Adding my work info and pictures.
-* Adding Contact me section.
-* Adding footer section.
+
+* Added bootstrap.
+* Updated Work samples with on click on screenshot takes you to a GitHub deployed webpage.
+* Updated contact with LinkedIn profile page, GitHub profile page and Twitter profile page.
+* Added Work day schedule app, Weather app and Group Project (Movie Buffs) to my work section.
+* Added LinkedIn, GitHub and Twitter links into contact me section.
+* Added Twitter script.
+* Removed footer.
 
 CSS
-* Adding style to header and navigation bar.
-* Stiling navigation bar.
-* Adding picure of me. :) 
-* Adding about me section.
-* Adding My work section.
-* Adding picure style.
-* Adding my contact info.
-* Adding footer style.
+
+* Updated style to header and navigation bar.
+* Updating picure of me. :) 
+* Updating stylyng in About me section.
+* Updating styling in My work section.
+* Updating styling in My contact info.
+* Removing footer styling.
+* Adding media query for mobile responsiveness.
 
 ![Preview](assets\images\screenshot.png)

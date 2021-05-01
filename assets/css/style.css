@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    /* padding: 0;
-    margin: 0; */
 }
 
 body {
@@ -122,16 +120,7 @@ width:66%;
     width:100%;
 }
 
-/* Adding footer style*/
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
-    color: white;
-    font-size: 25px;
-    background-color: #0c2e3f;
-}
+/* Adding media query for mobile responsiveness */
 @media screen and (max-width: 990px) {
 
     .bio {
