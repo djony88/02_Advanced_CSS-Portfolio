@@ -16,9 +16,10 @@ Requirement:
 HTML
 
 * Added bootstrap.
-* Updated Work samples with on click on screenshot takes you to a GitHub deployed webpage.
-* Updated contact with LinkedIn profile page, GitHub profile page and Twitter profile page.
+* Added PDF resume which downloads when you click on Resume in navigation bar.
 * Added Work day schedule app, Weather app and Group Project (Movie Buffs) to my work section.
+* Updated Work samples with "on click" function on screenshot takes you to a GitHub deployed webpage.
+* Updated contact with LinkedIn profile page, GitHub profile page and Twitter profile page.
 * Added LinkedIn, GitHub and Twitter links into contact me section.
 * Added Twitter script.
 * Removed footer.
@@ -33,4 +34,6 @@ CSS
 * Removing footer styling.
 * Adding media query for mobile responsiveness.
 
-![Preview](assets\images\screenshot.png)
+
+
+![Preview](.\assets\images\screenshot.png)

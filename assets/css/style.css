@@ -51,8 +51,10 @@ a {
 }
 /* Adding picure of me. :) */
 .ME {
-    height: 370px;
-    width: 300px;
+    border:3px solid #24c997;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
     margin-bottom: 25px;
     background-image: url("../images/nikola.jpg");
     background-size: cover;
