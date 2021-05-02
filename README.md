@@ -36,4 +36,4 @@ CSS
 
 
 
-![Preview](assets\images\screenshot.png)
+![Webpage Preview](./assets/images/screenshot.png)
