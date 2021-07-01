@@ -144,6 +144,22 @@ width:66%;
     border-radius: 1.5rem;
 }
 
-.img.float-end.img-thumbnail {
-    height: 500px;
+.ekko-lightbox-nav-overlay a {
+    color: goldenrod;
+}
+.gallery-title {
+    text-align: center;
+	font-weight: 500;
+	border-bottom: 1px dotted orange;
+	margin-top: 1em;
+}
+
+.card {
+    border-radius: 0.25rem;
+}
+
+.img-fluid {
+    width: 300px;
+    height: 190px;
+    margin-left: 130px;
 }
