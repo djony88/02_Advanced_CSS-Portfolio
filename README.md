@@ -13,6 +13,8 @@ Requirement:
 * Updated Resume
 * Updated LinkedIn
 
+* Updated Tweeter follow link
+
 HTML
 
 * Added bootstrap.
@@ -24,6 +26,10 @@ HTML
 * Added Twitter script.
 * Removed footer.
 
+* Added new bootstrap buttons instead of links.
+* Added new projects and screenshots / gifs.
+* Added new project arrangment.
+
 CSS
 
 * Updated style to header and navigation bar.
@@ -34,6 +40,14 @@ CSS
 * Removing footer styling.
 * Adding media query for mobile responsiveness.
 
+* Added new styling to navigation bar.
+* Added new project styling.
+
+In this Portfolio update I added some new styling and projects list arrangement. Navigation links are updatet to buttons, as well as footer links.
+On click to my phone number it will take you to call app (for mobile users) or it will prompt a message in browser. 
+On click to emal it will take you to email app. LinkedIn will be updated soon, as well as Resume... :)
 
 
-![Webpage Preview](./assets/images/screenshot.png)
+
+
+![Webpage Preview](./assets/images/screenshoot.png)
